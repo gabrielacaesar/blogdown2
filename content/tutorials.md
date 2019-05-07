@@ -2,7 +2,7 @@
 date: "2019-05-07"
 title: Tutoriais
 ---
-Lista de tutoriais escritos por mim no Medium.     
+Lista de tutoriais escritos por mim.     
 
 R para jornalistas: limpeza, renomeações e modificações     
 07/05/2019     
