@@ -1,5 +1,5 @@
 ---
-date: "2019-05-02"
+date: "2019-05-07"
 title: Tutoriais
 ---
 Lista de tutoriais escritos por mim no Medium.     
