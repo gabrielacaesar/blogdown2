@@ -132,7 +132,7 @@ head(fornecedor_sem_acentuacao)
 ```
 
 ## Juntar dois (ou mais) arquivos
-Queremos juntar a coluna criada acima, que contém os nomes dos fornecedores sem acento e em caixa alta, junto com o arquivo inicial, chamado "cota_senado". Por isso, vamos usar a função `cbind()`. 
+Queremos juntar a coluna criada acima, que contém os nomes dos fornecedores sem acento e em caixa alta, ao arquivo inicial, chamado "cota_senado". Por isso, vamos usar a função `cbind()`. 
 
 Na prática, a gente pegou o arquivo "cota_senado" e acrescentou a coluna criada acima. O nosso novo arquivo recebe o nome "cota_senado_final".
 
