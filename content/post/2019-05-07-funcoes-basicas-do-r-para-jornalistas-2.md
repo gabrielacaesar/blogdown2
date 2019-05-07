@@ -19,9 +19,9 @@ Para rodar o código, selecione o trecho e clique em `command + enter` no Mac (o
 
 São, no total, três cadernos de R para jornalistas:
 
-[Instalação, leitura e verificação](https://rpubs.com/gcaesar/492111);
-Limpeza, renomeações e modificações (este post);
-Análise de dados e criação de gráficos (em breve).
+[Instalação, leitura e verificação](https://www.gabrielacaesar.com/2019/05/02/fun%C3%A7%C3%B5es-b%C3%A1sicas-do-r-para-jornalistas-1/);   
+Limpeza, renomeações e modificações (este post);    
+Análise de dados e criação de gráficos (em breve).   
 
 ## Carregar bibliotecas
 Desta vez, nós não precisamos instalar as bibliotecas, com `install.packages()` porque já fizemos esse procedimento na primeira etapa do tutorial. Agora, apenas vamos "chamar" as bibliotecas.
