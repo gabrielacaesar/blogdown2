@@ -5,7 +5,7 @@ date: "2019-05-07"
 output: html_document
 ---
 
-## Tutorial 2
+## Tutorial 2:
 
 ![](https://cdn-images-1.medium.com/max/1200/1*xvzhZtBfl3hqnF0AMdoIUA.gif)
 
