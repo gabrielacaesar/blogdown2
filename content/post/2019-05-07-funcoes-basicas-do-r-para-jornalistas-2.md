@@ -169,7 +169,7 @@ unique(cota_senado_2017_a_2019$ANO)
 ## Separar em duas (ou mais) colunas
 A coluna "DATA" tem o seguinte formato: dia/mês/ano. Queremos criar uma coluna apenas com o valor do dia. Outra que tenha apenas o valor do mês. E a terceira com o valor do ano. O separador, no caso, é "/". 
 
-Como queremos manter a atual coluna "DATA", a gente também informar que "remove = FALSE" (por padrão, o remove = TRUE). Para tudo isso, usamos a função `separate()`. Essa função é da biblioteca `tidyr`, que precisa ser instalada e carregada.
+Como queremos manter a atual coluna "DATA", a gente também precisa informar que "remove = FALSE" (por padrão, o remove = TRUE). Para tudo isso, usamos a função `separate()`. Essa função é da biblioteca `tidyr`, que precisa ser instalada e carregada.
 
 ```{r message=FALSE}
 # install.packages("tidyr")
