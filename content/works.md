@@ -7,6 +7,25 @@ Algumas das matérias que escrevi nos últimos anos, por veículo, com os respec
 
 ## G1   
 
+Metodologia: o voto dos deputados e dos senadores   
+11/05/2019   
+[Leia a metodologia](https://g1.globo.com/politica/noticia/2019/05/11/o-voto-dos-deputados-e-dos-senadores.ghtml)   
+
+O voto dos deputados / legislatura atual   
+11/05/2019   
+[Veja a página especial](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/)   
+
+O voto dos senadores / legislatura atual   
+11/05/2019   
+[Veja a página especial](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/)   
+
+O voto dos deputados / legislatura anterior   
+11/05/2019   
+[Veja a página especial](https://especiais.g1.globo.com/politica/2018/o-voto-dos-deputados/)   
+
+O voto dos senadores / legislatura anterior   
+11/05/2019   
+[Veja a página especial](https://especiais.g1.globo.com/politica/2018/o-voto-dos-senadores/)   
 
 Em dois anos de governo, Temer teve encontros oficiais com mais da metade do Congresso    
 12/05/2018    
