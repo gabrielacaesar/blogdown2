@@ -14,4 +14,5 @@ E-mail: caesar.gabriela@gmail.com
 2016 a 2017 - Repórter na newsletter do site de notícias **Poder360**     
 2015 a 2016 - Trainee, repórter e redatora no jornal **O Estado de S.Paulo**     
 2015 - Freelancer no jornal **Folha de S.Paulo**     
-2008 a 2015 - Estagiária nos veículos **TV Band**, **Piauí**, **Veja Rio**, **Jornal do Brasil** e **O Globo**      
+2011 a 2015 - Estagiária nos veículos **Portal PUC-Rio Digital**, **Alerj**, **TV Band** e **Piauí**   
+2008 a 2010 - Estagiária júnior nos veículos **Veja Rio**, **Jornal do Brasil** e **O Globo**     
