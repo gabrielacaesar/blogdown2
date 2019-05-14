@@ -11,7 +11,7 @@ E-mail: caesar.gabriela@gmail.com
 
 ## Experiência     
 2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
-2016 a 2017 - Repórter na newsletter do site de notícias **Poder360**     
+2016 a 2017 - Repórter no Drive, newsletter do site de notícias **Poder360**     
 2015 a 2016 - Trainee, repórter e redatora no jornal **O Estado de S.Paulo**     
 2015 - Freelancer no jornal **Folha de S.Paulo**     
 2011 a 2015 - Estagiária nos veículos **Portal PUC-Rio Digital**, **Alerj**, **TV Band** e **Piauí**   
