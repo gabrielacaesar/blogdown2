@@ -4,7 +4,7 @@ title: Sobre
 ---
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
 
-Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Estudo programação em R e tenho feito matérias e análises já com esse conhecimento. Sou responsável pelos dados e pela curadoria de proposições das páginas "Os votos dos deputados" e "Os votos dos senadores". Também participo do grupo de checagens "Fato ou Fake". Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.
+Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Estudo programação em R e faço matérias e análises já com esse conhecimento. Sou responsável pelos dados e pela curadoria de proposições das páginas "Os votos dos deputados" e "Os votos dos senadores". Também participo do grupo de checagens "Fato ou Fake". Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)    
 E-mail: caesar.gabriela@gmail.com
