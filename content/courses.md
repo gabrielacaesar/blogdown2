@@ -4,6 +4,12 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+
+Datacamp   
+Data visualization with ggplot2 (part 1)  
+23/05/2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/data-visualization-with-ggplot2-part1-gabriela-caesar-23-maio-2019.pdf)  
+
 Datacamp     
 Exploratory Data Analysis in R: Case Study     
 18/05/2019     
