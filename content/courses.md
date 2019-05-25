@@ -1,9 +1,14 @@
 ---
-date: "2019-05-23"
+date: "2019-05-25"
 title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+
+Datacamp  
+Importing and cleaning data in R: case studies  
+25/05/2019   
+[Veja o resultado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/importing-and-cleaning-data-in-r-case-studies-datacamp-gabriela-caesar-25-maio-2019.pdf)   
 
 Datacamp   
 Data visualization with ggplot2 (part 1)  
