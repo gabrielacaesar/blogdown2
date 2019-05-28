@@ -6,9 +6,14 @@ Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição 
 
 
 Datacamp  
+Data manipulation in R with dplyr   
+27/05/2019  
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/data-manipulation-in-r-with-dplyr-gabriela-caesar-datacamp.pdf)  
+
+Datacamp  
 Importing and cleaning data in R: case studies  
 25/05/2019   
-[Veja o resultado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/importing-and-cleaning-data-in-r-case-studies-datacamp-gabriela-caesar-25-maio-2019.pdf)   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/importing-and-cleaning-data-in-r-case-studies-datacamp-gabriela-caesar-25-maio-2019.pdf)   
 
 Datacamp   
 Data visualization with ggplot2 (part 1)  
