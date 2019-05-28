@@ -7,7 +7,7 @@ Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição 
 
 Datacamp  
 Data manipulation in R with dplyr   
-27/05/2019  
+28/05/2019  
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/data-manipulation-in-r-with-dplyr-gabriela-caesar-datacamp.pdf)  
 
 Datacamp  
