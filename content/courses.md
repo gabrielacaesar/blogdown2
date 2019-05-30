@@ -5,6 +5,12 @@ title: Cursos
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
 
+
+Datacamp   
+Joining data in R with dplyr   
+30/05/2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/joining-data-in-r-with-dplyr-datacamp-gabriela-caesar-30-maio-2019.pdf)   
+
 Datacamp  
 Data manipulation in R with dplyr   
 28/05/2019  
