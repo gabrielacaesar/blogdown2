@@ -1,10 +1,15 @@
 ---
-date: "2019-05-28"
+date: "2019-06-18"
 title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
 
+
+Datacamp  
+Importing data in R (part 2)    
+18/06/2019  
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/importing-data-in-R-part-2-datacamp-gabriela-caesar-18jun2019.pdf)   
 
 Datacamp   
 Joining data in R with dplyr   
