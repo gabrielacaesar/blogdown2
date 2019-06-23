@@ -7,7 +7,7 @@ Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição 
 Datacamp  
 Introduction to data    
 23/06/2019  
-[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/importing-data-in-R-part-2-datacamp-gabriela-caesar-18jun2019.pdf) 
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/introduction-to-data-datacamp-gabriela-caesar-23jun2019.pdf) 
 
 Datacamp  
 Importing data in R (part 2)    
