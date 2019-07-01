@@ -21,7 +21,7 @@ Análise do uso da cota parlamentar no Senado
 Site que compila links para checagem de boatos   
 07/08/2018   
 [Veja o código](https://github.com/gabrielacaesar/contra-as-fake-news)   
-[Veja o site](http://contra-as-fake-news.com/)   
+[Veja o site](https://gabrielacaesar.github.io/contra-as-fake-news/)   
 
 Site que reúne os votos dos senadores   
 09/08/2017      
