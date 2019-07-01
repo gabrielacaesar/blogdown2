@@ -127,6 +127,10 @@ Treinamento
 
 ## Congressos e conferências
 
+Abraji   
+2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/abraji-gabriela-caesar-2019-certificado.pdf)    
+
 CODA-BR     
 2018     
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/codabr-gabriela-caesar-2018-certificado.pdf)   
