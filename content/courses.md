@@ -5,6 +5,11 @@ title: Cursos
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
 Datacamp  
+Exploratory data analysis   
+12/07/2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/exploratory-data-analysis-in-r-case-study-gabriela-caesar-datacamp-18-maio-2019.pdf)   
+
+Datacamp  
 Introduction to data    
 23/06/2019  
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/introduction-to-data-datacamp-gabriela-caesar-23jun2019.pdf) 
