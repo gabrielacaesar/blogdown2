@@ -1,8 +1,14 @@
 ---
-date: "2019-06-18"
+date: "2019-07-17"
 title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
+
+
+Datacamp   
+Sentiment analysis in R: the tidy way    
+17/07/2019    
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/sentiment-analysis-in-r-the-tidy-way-17-julho-2019-gabriela-caesar-datacamp.pdf)   
 
 Datacamp  
 Exploratory data analysis   
