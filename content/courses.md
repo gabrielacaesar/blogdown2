@@ -6,6 +6,11 @@ Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição 
 
 
 Datacamp   
+Formação: data analyst with R   
+31/08/2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/data-analyst-with-r-track-datacamp-31jul2019-gabriela-caesar.pdf)   
+
+Datacamp   
 Sentiment analysis in R: the tidy way    
 17/07/2019    
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/sentiment-analysis-in-r-the-tidy-way-17-julho-2019-gabriela-caesar-datacamp.pdf)   
