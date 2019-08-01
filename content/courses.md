@@ -1,5 +1,5 @@
 ---
-date: "2019-07-17"
+date: "2019-08-31"
 title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
