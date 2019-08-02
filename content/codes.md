@@ -6,7 +6,7 @@ title: Códigos
 Tenho feito códigos em R para automatizar, limpar e analisar dados para o trabalho como jornalista de dados. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
 
 
-Frequência em votações nominais   
+Frequência em votações nominais da Câmara    
 01/08/2019   
 https://github.com/gabrielacaesar/studyingR/blob/master/freq-plenario-22jul2019.R   
 
