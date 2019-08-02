@@ -8,7 +8,7 @@ Tenho feito códigos em R para automatizar, limpar e analisar dados para o traba
 
 Frequência em votações nominais da Câmara    
 01/08/2019   
-https://github.com/gabrielacaesar/studyingR/blob/master/freq-plenario-22jul2019.R   
+[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/freq-plenario-22jul2019.R)      
 
 Limpeza das orientações partidárias    
 27/07/2019   
