@@ -172,8 +172,8 @@ Abraji
 Veja o certificado     
 
 Abraji     
-2014     
-Veja o certificado     
+2015     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-congresso-abraji-2015.pdf)     
 
 Abraji     
 2013    
