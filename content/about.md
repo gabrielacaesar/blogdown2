@@ -7,7 +7,7 @@ title: Sobre
 Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Uso a programação em R para fazer matérias e análises de dados. Sou responsável pelos dados e pela curadoria de proposições das páginas "Os votos dos deputados" e "Os votos dos senadores". Também participo do grupo de checagens "Fato ou Fake". Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)    
-E-mail: caesar.gabriela@gmail.com
+E-mail: gabriela.caesar.2019@gmail.com
 
 ## Experiência     
 2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
