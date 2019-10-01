@@ -140,6 +140,11 @@ Treinamento
 2015     
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/trainee-estadao-gabriela-caesar-2015-convertido.pdf)     
 
+Câmara dos Deputados - Cefor     
+Estágio-visita de curta duração        
+2015     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-estagio-visita-camara-dos-deputados-jun2015.pdf)     
+
 
 ## Congressos e conferências
 
