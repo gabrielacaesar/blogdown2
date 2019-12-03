@@ -148,6 +148,10 @@ Estágio-visita de curta duração
 
 ## Congressos e conferências
 
+CODA-BR    
+2019    
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-escola-de-dados-codabr-2019.pdf)    
+
 Abraji   
 2019   
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/abraji-gabriela-caesar-2019-certificado.pdf)    
