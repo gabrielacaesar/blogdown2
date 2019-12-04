@@ -4,6 +4,10 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Datacamp     
+Building Web Applications in R with Shiny: Case Studies     
+04/12/2019     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/datacamp-building-web-applications-in-r%20with-shiny-case-studies-4dez2019-gabrielacaesar.pdf)           
 
 Datacamp   
 Formação: data analyst with R (64 hours)   
