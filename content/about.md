@@ -5,9 +5,9 @@ title: Sobre
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
 
 [pt]      
-Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Uso a programação em R para fazer matérias e análises de dados. Sou responsável pelo projeto de dados ["Os votos dos deputados"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/) e ["Os votos dos senadores"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/), que reúnem os dados de votações do Congresso em uma ferramenta fácil e simples de navegar para achar informações sobre cada deputado, cada senador ou mesmo sobre as proposições votadas. 
+Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Uso a programação em R para fazer matérias e análises de dados. Sou responsável pelo projeto de dados ["Os votos dos deputados"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/) e ["Os votos dos senadores"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/), que reúnem os dados de votações do Congresso em uma ferramenta fácil e simples de navegar para achar informações sobre cada deputado, cada senador ou mesmo sobre as proposições votadas.            
 
-Também participo do grupo de checagens ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/). Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.
+Também participo do grupo de checagens ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/). Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.          
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)    
 E-mail: gabriela.caesar.2020@gmail.com
