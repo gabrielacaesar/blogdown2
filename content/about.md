@@ -22,3 +22,4 @@ E-mail: gabriela.caesar.2020@gmail.com
 2019 até atual - Formação em cientista de dados com R no **Datacamp**     
 2018 a 2019 - Formação em analista de dados com R no **Datacamp**       
 2011 a 2015 - Bacharelado em jornalismo na **PUC-Rio**        
+2013 - Intercâmbio acadêmico na **Hochschule Osnabrück (Alemanha)**
