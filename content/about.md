@@ -9,8 +9,9 @@ Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio 
 
 Também participo do grupo de checagens ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/). Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.          
 
-Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)    
-E-mail: gabriela.caesar.2020@gmail.com
+Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
+LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
+E-mail: gabriela.caesar.2020@gmail.com        
 
 ## Experiência     
 2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
