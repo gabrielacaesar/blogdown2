@@ -4,6 +4,24 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Datacamp             
+Joining data with dplyr          
+20/04/2020        
+[Veja o certificadp](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Joining-Data-with-dplyr-datacamp-20abr2020-gabriela-caesar.pdf)          
+
+Datacamp   
+Data manipulation with dplyr    
+17/04/2020    
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Data-Manipulation-with-dplyr-datacamp-17abr2020.pdf)    
+
+IME     
+Machine learning 1
+Fevereiro de 2020
+
+IME     
+Usabilidade para interfaces web
+Janeiro de 2020
+
 Datacamp     
 Building Web Applications in R with Shiny: Case Studies     
 04/12/2019     
