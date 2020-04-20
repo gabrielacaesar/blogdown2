@@ -5,23 +5,6 @@ title: Códigos
 
 Tenho feito códigos em R para automatizar, limpar e analisar dados para o trabalho como jornalista de dados. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
 
-
-Frequência em votações nominais da Câmara    
-01/08/2019   
-[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/freq-plenario-22jul2019.R)      
-
-Limpeza das orientações partidárias    
-27/07/2019   
-[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/orientacao_cd_cleaning.R)   
-
-Automatização das orientações partidárias   
-24/07/2019   
-[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/orientacao_cd.R)   
-
-Análise dos orgãos partidários   
-13/06/2019   
-[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/orgaos-provisorios-13jun2019.R)   
-
 Automatização do download de fotos de senadores      
 06/02/2019    
 [Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/salva-foto-senador.R)  
