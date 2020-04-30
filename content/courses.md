@@ -15,12 +15,14 @@ Data manipulation with dplyr
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Data-Manipulation-with-dplyr-datacamp-17abr2020.pdf)    
 
 IME     
-Machine learning 1      
-Fevereiro de 2020          
+Machine learning 1         
+03/02/2020 a 07/02/2020             
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Introducao-ao-aprendizado-de-maquina-I-Machine-Learning-fev2020.pdf)                 
 
-IME     
-Usabilidade para interfaces web   
-Janeiro de 2020       
+IME      
+Usabilidade para interfaces web        
+13/01/2020 a 17/01/2020      
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/engenharia-de-usabilidade-web-ime-curso-verao-2020.pdf)           
 
 Datacamp     
 Building Web Applications in R with Shiny: Case Studies     
