@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Curso-R                
+Webscraping com R - 2              
+25/04/2020             
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/webscraping-2-curso-R-gabriela-caesar-25-abril-2020.pdf)           
+
 Datacamp             
 Joining data with dplyr          
 20/04/2020        
@@ -105,7 +110,7 @@ Intermediate R
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
 
 Curso-R   
-Webscraping com R   
+Webscraping com R - 1         
 06/04/2019   
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/workshop-r-curso-r-6-abril-2019-gabriela-caesar.pdf)   
 
