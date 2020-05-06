@@ -1,8 +1,13 @@
 ---
-date: "2019-05-07"
+date: "2020-05-05"
 title: Tutoriais
 ---
-Lista de tutoriais escritos por mim.     
+Lista de tutoriais escritos por mim.
+
+
+Curso de R para jornalistas                       
+21/11/2019                    
+[Acesse o curso](https://www.curso-de-programacao-em-r-para-jornalistas.com/)                  
 
 R para jornalistas: limpeza, renomeações e modificações     
 07/05/2019     
