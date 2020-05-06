@@ -5,7 +5,7 @@ title: Sobre
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
 
 [pt]      
-Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Uso a programação em R para fazer matérias e análises de dados. 
+Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pelo Estadão e pelo Poder360. Uso a programação em R para descobrir pautas, analisar dados e automatizar tarefas. 
 
 Sou responsável pelo projeto de dados ["Os votos dos deputados"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/) e ["Os votos dos senadores"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/), que reúnem os dados de votações do Congresso em uma ferramenta fácil e simples de navegar para achar informações sobre cada deputado, cada senador ou mesmo sobre as proposições votadas.           
 
