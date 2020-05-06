@@ -13,7 +13,7 @@ Também escrevi tutoriais na internet sobre a utilidade da programação em R pa
 
 Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens. 
 
-Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Ainda continuo trabalhando com temas ligados à politica e, em especial, ao Legislativo.
+Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Ainda continuo trabalhando com temas ligados à política e, em especial, ao Legislativo.
  
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
