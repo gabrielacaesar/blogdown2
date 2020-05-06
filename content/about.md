@@ -9,11 +9,13 @@ Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio 
 
 Sou responsável pelo projeto de dados ["Os votos dos deputados"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/) e ["Os votos dos senadores"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/), que reúnem os dados de votações do Congresso em uma ferramenta fácil e simples de navegar para achar informações sobre cada deputado, cada senador ou mesmo sobre as proposições votadas.           
 
-Também escrevi tutoriais na internet sobre a utilidade da programação em R para jornalistas. Acesse o [curso de R para jornalistas](https://www.curso-de-programacao-em-r-para-jornalistas.com/).
+Esse projeto de dados foi inspirado no ["Plenário"](https://plenario.github.io/plenario/), que eu desenvolvi durante o curso de front-end da [reprograma](https://reprograma.com.br/), em 2017. Eu fui responsável por todas as etapas do site: ideia, desenvolvimento web, limpeza dos dados e tratamento das informações.      
 
-Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens. 
+Também escrevi tutoriais na internet sobre a utilidade da programação em R para jornalistas. Acesse o [curso de R para jornalistas](https://www.curso-de-programacao-em-r-para-jornalistas.com/).    
 
-Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continue trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.
+Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens.   
+
+Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continue trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.     
  
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
