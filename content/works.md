@@ -461,10 +461,6 @@ Pesquisa aponta que Judiciário é o Poder menos transparente
 12/05/2016    
 [Leia a matéria](http://politica.estadao.com.br/noticias/geral,pesquisa-aponta-que-judiciario-e-o-poder-menos-transparente,10000050811)
 
-Radialista apadrinhou Cunha na política    
-06/05/2016    
-[Leia a matéria](http://politica.estadao.com.br/noticias/geral,radialista-apadrinhou-cunha-na-politica,10000049448)    
-
 Manifestantes protestam contra nomeação de Lula na Av. Paulista    
 16/03/2016    
 [Leia a matéria](http://politica.estadao.com.br/noticias/geral,manifestantes-protestam-contra-nomeacao-de-lula-na-av-paulista,10000021640)    
