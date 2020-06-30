@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Curso-R        
+Deploy            
+20/06/2020        
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/curso-r-deploy-Gabriela-Caesar.pdf)          
+
 Curso-R                
 Webscraping com R - 2              
 25/04/2020             
