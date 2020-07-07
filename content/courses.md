@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+EF Standard English Test   
+EF SET         
+07/07/2020           
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/EF-SET-Certificate-gabriela-caesar-7jul2020.pdf)                    
+
 Curso-R        
 Deploy            
 20/06/2020        
