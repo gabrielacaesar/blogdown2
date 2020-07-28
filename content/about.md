@@ -1,5 +1,5 @@
 ---
-date: "2020-05-05"
+date: "2020-07-27"
 title: Sobre
 ---
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
@@ -36,4 +36,4 @@ E-mail: gabriela.caesar.2020@gmail.com
 2011 a 2015 - Bacharelado em jornalismo na **PUC-Rio**        
 2013 - Intercâmbio acadêmico na **Hochschule Osnabrück (Alemanha)**
 
-[(lista de cursos complementares e participações em congressos)](https://www.gabrielacaesar.press/courses/)
+[(lista de cursos complementares e participações em congressos)](https://www.gabrielacaesar.com/courses/)
