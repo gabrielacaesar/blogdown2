@@ -1,11 +1,31 @@
 ---
-date: "2019-04-11"
+date: "2020-08-19"
 title: Trabalhos
 
 ---
 Algumas das matérias que escrevi nos últimos anos, por veículo, com os respectivos títulos, links e datas.
 
 ## G1   
+
+Metodologia: o voto dos vereadores			
+18/08/2020	
+[Leia a metodologia](https://g1.globo.com/politica/noticia/2020/08/18/o-voto-dos-vereadores.ghtml)		
+
+O voto dos vereadores / Rio
+18/08/2020  
+[Veja a página especial](https://especiais.g1.globo.com/rj/rio-de-janeiro/2020/o-voto-dos-vereadores-rio-de-janeiro/)		
+
+O voto dos vereadores / SP
+18/08/2020  
+[Veja a página especial](https://especiais.g1.globo.com/sp/sao-paulo/2020/o-voto-dos-vereadores-sao-paulo/)
+
+O voto dos vereadores / Belo Horizonte
+18/08/2020  
+[Veja a página especial](https://especiais.g1.globo.com/mg/minas-gerais/2020/o-voto-dos-vereadores-belo-horizonte/)
+
+O voto dos vereadores / Recife
+18/08/2020  
+[Veja a página especial](https://especiais.g1.globo.com/pe/pernambuco/2020/o-voto-dos-vereadores-recife/)
 
 Metodologia: o voto dos deputados e dos senadores   
 11/05/2019   
@@ -46,6 +66,14 @@ Haddad ganha no Nordeste; e Bolsonaro, nas demais regiões do país
 Viagens de jatinho, flat de luxo, refeição de R$ 1.000… Gastos de senadores com cota parlamentar chegam a R$ 26,6 milhões em 2017   
 21/04/2018   
 [Leia a matéria](https://g1.globo.com/politica/noticia/viagens-de-jatinho-flat-de-luxo-refeicao-de-r-1000-gastos-de-senadores-com-cota-parlamentar-chegam-a-r-266-milhoes-em-2017.ghtml)   
+
+Médicos e enfermeiros são alvos de ao menos 79 denúncias por fake news e 'curas milagrosas' da Covid-19				
+28/06/2020		
+[Leia a matéria](https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/28/medicos-e-enfermeiros-sao-alvos-de-ao-menos-79-denuncias-por-fake-news-e-curas-milagrosas-da-covid-19.ghtml)			
+
+Estados compram 7 mil respiradores, mas menos da metade é entregue; valor de cada equipamento varia de R$ 40 mil a R$ 226 mil no país		
+26/06/2020				
+[Leia a matéria](https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/26/estados-compram-7-mil-respiradores-mas-menos-da-metade-e-entregue-valor-de-cada-equipamento-varia-de-r-40-mil-a-r-226-mil-no-pais.ghtml)			
 
 Nova Câmara: 50 deputados federais são réus em processos criminais   
 28/02/2019   
