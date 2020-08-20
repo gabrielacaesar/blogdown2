@@ -7,24 +7,24 @@ Algumas das matérias que escrevi nos últimos anos, por veículo, com os respec
 
 ## G1   
 
-Metodologia: o voto dos vereadores			
-18/08/2020	
+Metodologia: o voto dos vereadores	   		
+18/08/2020	         
 [Leia a metodologia](https://g1.globo.com/politica/noticia/2020/08/18/o-voto-dos-vereadores.ghtml)		
 
-O voto dos vereadores / Rio
-18/08/2020  
+O voto dos vereadores / Rio                  
+18/08/2020              
 [Veja a página especial](https://especiais.g1.globo.com/rj/rio-de-janeiro/2020/o-voto-dos-vereadores-rio-de-janeiro/)		
 
-O voto dos vereadores / SP
-18/08/2020  
+O voto dos vereadores / SP                  
+18/08/2020                    
 [Veja a página especial](https://especiais.g1.globo.com/sp/sao-paulo/2020/o-voto-dos-vereadores-sao-paulo/)
 
-O voto dos vereadores / Belo Horizonte
-18/08/2020  
+O voto dos vereadores / Belo Horizonte                  
+18/08/2020        
 [Veja a página especial](https://especiais.g1.globo.com/mg/minas-gerais/2020/o-voto-dos-vereadores-belo-horizonte/)
 
-O voto dos vereadores / Recife
-18/08/2020  
+O voto dos vereadores / Recife                  
+18/08/2020                    
 [Veja a página especial](https://especiais.g1.globo.com/pe/pernambuco/2020/o-voto-dos-vereadores-recife/)
 
 Metodologia: o voto dos deputados e dos senadores   
