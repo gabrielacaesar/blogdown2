@@ -78,6 +78,7 @@ Estados compram 7 mil respiradores, mas menos da metade é entregue; valor de ca
 Ministros de Bolsonaro fazem 1.060 viagens com aviões da FAB no 1º ano de governo				
 30/01/2020					
 [Leia a matéria](https://g1.globo.com/politica/noticia/2020/01/30/ministros-de-bolsonaro-fazem-1060-viagens-com-avioes-da-fab-no-1o-ano-de-governo.ghtml)			
+
 Nova Câmara: 50 deputados federais são réus em processos criminais   
 28/02/2019   
 [Leia a matéria](https://g1.globo.com/politica/noticia/2019/02/28/nova-camara-50-deputados-federais-sao-reus-em-processos-criminais.ghtml)   
