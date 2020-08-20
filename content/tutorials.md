@@ -1,9 +1,13 @@
 ---
-date: "2020-05-05"
+date: "2020-08-19"
 title: Tutoriais
 ---
 Lista de tutoriais escritos por mim.
 
+
+Oficina de R com Fernando Barbalho                 
+20/08/2020                 
+[Acesse o curso](https://github.com/Introducao-ao-R-na-Abraji/oficina-R)                 
 
 Curso de R para jornalistas                       
 21/11/2019                    
