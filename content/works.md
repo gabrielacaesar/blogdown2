@@ -7,8 +7,8 @@ Algumas das matérias que escrevi nos últimos anos, por veículo, com os respec
 
 ## G1   
 
-Metodologia: o voto dos vereadores                                  	   		
-18/08/2020	                         
+Metodologia: o voto dos vereadores                                   	   		
+18/08/2020	                          
 [Leia a metodologia](https://g1.globo.com/politica/noticia/2020/08/18/o-voto-dos-vereadores.ghtml)		
 
 O voto dos vereadores / Rio                  
