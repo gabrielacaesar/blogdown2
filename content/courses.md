@@ -152,7 +152,7 @@ Veja o certificado
 Data Bootcamp     
 Data science, big data e machine learning    
 17/02/2018 a 25/02/2018    
-Veja o certificado     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-data-bootcamp-python-2018.pdf)     
 
 Medida SP    
 Introdução a GIS e mapeamento com QGIS    
@@ -167,12 +167,12 @@ Veja o certificado
 Impacta     
 Javascript     
 2017        
-Veja o certificado     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-impacta-javascript-2017.pdf)     
 
 Reprograma     
 Front-end     
 2017       
-Veja o certificado     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-reprograma-2017.pdf)     
 
 O Estado de S.Paulo     
 Treinamento     
