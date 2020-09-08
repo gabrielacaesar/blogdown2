@@ -5,7 +5,7 @@ title: Tutoriais
 Lista de tutoriais escritos por mim.
 
 
-Coletando dados da SSP-SP               
+Captura de dados da SSP-SP               
 08/09/2020               
 [Leia o texto](https://www.gabrielacaesar.com/2020/09/08/captura-de-dados-ssp-sp/)             
 
