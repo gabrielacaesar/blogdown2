@@ -67,9 +67,7 @@ mes <- url %>%
   separate(mes, c("mes", "ano"), sep = "/")
 ```
 
-Como fica após rodar o código
-
-!()[https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/1-output-mes.png]
+[Clique aqui para ver como ficou o resultado da etapa 3](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-mes.png)
 
 ### Etapa 4
 
@@ -98,6 +96,7 @@ get_tabela <- function(x){
 
 all_tabela <- map_dfr(1:tabela_count, get_tabela)
 ```
+[Clique aqui para ver como ficou o resultado da etapa 4](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-tabela.png)
 
 ### Etapa 5
 
@@ -113,6 +112,8 @@ dir.create(paste0("~/Downloads/SSP_data", Sys.Date()))
 setwd(paste0("~/Downloads/SSP_data", Sys.Date()))
 write.csv(dados, paste0("dados", Sys.Date(), Sys.time(), ".csv"))
 ```
+
+[Clique aqui para ver como ficou o resultado da etapa 5](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-dados.png)
 
 ### Etapa 6
 
@@ -138,6 +139,8 @@ dados_por_crime <- dados %>%
 
 dados_por_crime
 ```
+
+[Clique aqui para ver como ficou o resultado da etapa 6](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-dados-por-crime.png)
 
 ### Etapa 7 
 
