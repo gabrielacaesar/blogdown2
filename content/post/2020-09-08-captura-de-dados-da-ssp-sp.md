@@ -40,7 +40,7 @@ O mês e o ano são informados logo antes da tabela. Precisamos coletar esse tex
 
 Depois, definimos o nome "mes" para a coluna, em vez de ".". Também apagamos o texto "Ocorrências Registradas no mês: " já que queremos manter apenas o mês e o ano. Queremos ainda que cada linha tenha um id para, depois, cruzarmos com os dados das tabelas (cada tabela terá um id, assim como cada data).
 
-Substituímos ainda o nome dos meses pelo algorismo. Por exemplo, "Agosto de " vira "08/". Por fim, pedimos para separar os dados da coluna considerando o separador "/" já que queremos ter uma coluna com mês e outra com ano.
+Substituímos ainda o nome dos meses pelo número. Por exemplo, "Agosto de " vira "08/". Por fim, pedimos para separar os dados da coluna considerando o separador "/" já que queremos ter uma coluna com mês e outra com ano.
 
 ```{r}
 mes <- url %>%
@@ -67,13 +67,14 @@ mes <- url %>%
   separate(mes, c("mes", "ano"), sep = "/")
 ```
 
+
 ### Etapa 4
 
-Agora queremos coletar os números de crimes contra mulher, ou seja, as tabelas do HTML. Usaremos novamente o pacote `rvest`, com as funções `read_html()`, `html_table()`. Como são mais de 100 tabelas, vamos criar uma estrutura de repetição. Para isso, usaremos o `map_dfr()` do pacote `purrr`, que faz parte do `tidyverse`.
+Agora queremos coletar os números de crimes contra mulher, ou seja, as tabelas do HTML. Usaremos novamente o pacote `rvest`, com as funções `read_html()` e `html_table()`. Como são mais de 100 tabelas, vamos criar uma estrutura de repetição. Para isso, usaremos o `map_dfr()` do pacote `purrr`, que faz parte do `tidyverse`.
 
 Primeiro, contamos quantas tabelas há no HTML. Depois, criarmos um bloco de código que pega cada tabela e adiciona o id dela. Esse bloco de código criou a função `get_tabela()` (obs: eu escolhi esse nome). 'x' é o número que vai mudar a cada momento. Esse bloco de codigo é repetido para todas as tabelas do HTML.
 
-Apos rodar, temos um arquivo com mais de 1.500 linhas.
+Após rodar, temos um arquivo com mais de 1.500 linhas.
 
 ```{r}
 tabela_count <- url %>%
@@ -99,7 +100,7 @@ all_tabela <- map_dfr(1:tabela_count, get_tabela)
 
 Já temos um arquivo com os dados das tabelas e outro com as datas. Agora, queremos cruzá-los, considerando a coluna do id. Depois disso, se preferir, você pode baixar o arquivo no seu computador.
 
-Abaixo, eu crio uma nova pasta chamada "SSP_data" e o dia de hoje informado pelo computador (`Sys.Date()`). Defino ele como pasta para trabalho e peço para fazer o download do CSV lá.
+Abaixo, eu crio uma nova pasta chamada "SSP_data" e o dia de hoje informado pelo computador (`Sys.Date()`). Defino essa pasta como local de trabalho e peço para fazer o download do CSV lá.
 
 ```{r}
 dados <- all_tabela %>%
