@@ -67,6 +67,9 @@ mes <- url %>%
   separate(mes, c("mes", "ano"), sep = "/")
 ```
 
+Como fica após rodar o código
+
+!()[https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/1-output-mes.png]
 
 ### Etapa 4
 
