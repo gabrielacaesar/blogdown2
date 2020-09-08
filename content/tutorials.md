@@ -1,5 +1,5 @@
 ---
-date: "2020-08-19"
+date: "2020-09-08"
 title: Tutoriais
 ---
 Lista de tutoriais escritos por mim.
