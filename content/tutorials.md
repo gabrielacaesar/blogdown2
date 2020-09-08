@@ -5,6 +5,10 @@ title: Tutoriais
 Lista de tutoriais escritos por mim.
 
 
+Coletando dados da SSP-SP               
+08/09/2020               
+[Leia o texto](https://www.gabrielacaesar.com/2020/09/08/captura-de-dados-ssp-sp/)             
+
 Oficina de R com Fernando Barbalho                 
 20/08/2020                 
 [Acesse o curso](https://github.com/Introducao-ao-R-na-Abraji/oficina-R)                 
