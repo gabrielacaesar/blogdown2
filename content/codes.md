@@ -5,6 +5,10 @@ title: Códigos
 
 Tenho feito códigos em R para automatizar, limpar e analisar dados para o trabalho como jornalista de dados. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
 
+Captura de dados da SSP-SP            
+02/09/2020          
+[Veja o código](https://github.com/gabrielacaesar/studyingR/blob/master/SSP_violencia_contra_mulher_tabelas.R)          
+  
 Códigos gerais em R para estudo e trabalho        
 19/08/2020        
 [Veja o código](https://github.com/gabrielacaesar/studyingR)        
