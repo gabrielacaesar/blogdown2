@@ -96,7 +96,7 @@ get_tabela <- function(x){
 
 all_tabela <- map_dfr(1:tabela_count, get_tabela)
 ```
-[Clique aqui para ver como ficou o resultado da etapa 4](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-tabela.png)
+[Clique aqui para ver como ficou o resultado da etapa 4](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/master/static/output-tabelas.png)
 
 ### Etapa 5
 
