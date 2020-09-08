@@ -36,7 +36,7 @@ url <- "http://www.ssp.sp.gov.br/Estatistica/ViolenciaMulher.aspx"
 
 ### Etapa 3
 
-O mês e o ano são informados logo antes da tabela. Precisamos coletar esse texto. No HTML da página, é fácil achar as tabelas porque elas usam a tag `table`. Cada `table` está dentro de uma `div` com a classe `table-responsive`. A data está na `div` anterior, que tem um `span`. Para pegar essas informações, usamos algumas funções do pacote `rvest`, como `read_html()`, `html_nodes()`, `html_text()`.
+O mês e o ano são informados logo antes da tabela. Precisamos coletar esse texto. No HTML da página, é fácil achar as tabelas porque elas usam a tag `table`. Cada `table` está dentro de uma `div` com a classe `table-responsive`. A data está na `div` anterior, que tem um `span`. Para pegar essas informações, usamos algumas funções do pacote `rvest`, como `read_html()`, `html_nodes()` e `html_text()`.
 
 Depois, definimos o nome "mes" para a coluna, em vez de ".". Também apagamos o texto "Ocorrências Registradas no mês: " já que queremos manter apenas o mês e o ano. Queremos ainda que cada linha tenha um id para, depois, cruzarmos com os dados das tabelas (cada tabela terá um id, assim como cada data).
 
@@ -100,7 +100,7 @@ all_tabela <- map_dfr(1:tabela_count, get_tabela)
 
 ### Etapa 5
 
-Já temos um arquivo com os dados das tabelas e outro com as datas. Agora, queremos cruzá-los, considerando a coluna do id. Depois disso, se preferir, você pode baixar o arquivo no seu computador.
+Já temos um arquivo com os dados das tabelas e outro com as datas. Agora, queremos cruzá-los, considerando a coluna do id e usamos o `left_join()`. Depois disso, se preferir, você pode baixar o arquivo no seu computador.
 
 Abaixo, eu crio uma nova pasta chamada "SSP_data" e o dia de hoje informado pelo computador (`Sys.Date()`). Defino essa pasta como local de trabalho e peço para fazer o download do CSV lá.
 
