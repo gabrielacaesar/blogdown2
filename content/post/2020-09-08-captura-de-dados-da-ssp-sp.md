@@ -1,7 +1,10 @@
 ---
-title: "Captura de dados da SSP-SP"
-author: "Gabriela Caesar"
-date: "9/8/2020"
+title: Captura de dados da SSP-SP
+author: Gabriela Caesar
+date: '2020-09-08'
+slug: captura-de-dados-ssp-sp
+categories: [r]
+tags: [r, rvest, tidyverse, webscraping]
 output: html_document
 ---
 
@@ -25,7 +28,7 @@ library(rvest)
 
 ### Etapa 2
 
-Nesta etapa, vamos informar a URL onde ficam esses dados. Esse link foi informado pela própria SSP-SP pela Lei de Acesso à Informação e não estão reunidos de forma consolidada em uma seção de dados abertos. Por isso, justifica-se este trabalho com a programação em R.
+Nesta etapa, vamos informar a URL onde ficam esses dados. Esse link foi informado pela própria SSP-SP pela Lei de Acesso à Informação, já que os dados não estão reunidos de forma consolidada em uma seção de dados abertos. Por isso, justifica-se este trabalho com a programação em R.
 
 ```{r}
 url <- "http://www.ssp.sp.gov.br/Estatistica/ViolenciaMulher.aspx"
