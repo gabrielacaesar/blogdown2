@@ -9,9 +9,9 @@ output: html_document
 ---
 
 
-## Violência contra a mulher / SSP-SP
+## Violência contra as mulheres / SSP-SP
 
-Este código acessa a página com estatísticas sobre violência contra a mulher no site da Secretaria da Segurança Pública do governo de São Paulo (SSP-SP), pega as tabelas disponíveis, acrescenta o mês e o ano dos dados e transforma em um arquivo reaproveitável. A ideia é diminuir o trabalho manual de pegar esses números à mão (com CTRL+C e CTRL+V), mais suscetível a erros.
+Este código acessa a página com estatísticas sobre violência contra as mulheres no site da Secretaria da Segurança Pública do governo de São Paulo (SSP-SP), pega as tabelas disponíveis, acrescenta o mês e o ano dos dados e transforma em um arquivo reaproveitável. A ideia é diminuir o trabalho manual de pegar esses números à mão (com CTRL+C e CTRL+V), mais suscetível a erros.
 
 ### Etapa 1
 
