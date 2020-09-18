@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Curso-R                 
+R para a ciência de dados 2            
+18/08/2020 a 03/09/2020                   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado_curso-r-ciencia-de-dados-2-agosto-setembro-2020.pdf)           
+
 EF Standard English Test   
 EF SET         
 07/07/2020           
