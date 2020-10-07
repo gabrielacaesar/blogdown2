@@ -190,7 +190,11 @@ Estágio-visita de curta duração
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-estagio-visita-camara-dos-deputados-jun2015.pdf)     
 
 
-## Congressos e conferências
+## Congressos e conferências     
+
+Abraji                  
+2020                    
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-domingo-com-dados-abraji-gabriela-caesar-2020.pdf)             
 
 CODA-BR    
 2019    
