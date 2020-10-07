@@ -193,7 +193,8 @@ Estágio-visita de curta duração
 ## Congressos e conferências     
 
 Abraji                  
-2020                    
+2020                  
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-abraji-2020-gabriela-caesar.pdf)             
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado-domingo-com-dados-abraji-gabriela-caesar-2020.pdf)             
 
 CODA-BR    
