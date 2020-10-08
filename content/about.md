@@ -13,7 +13,7 @@ Coordenei o projeto de dados ["O voto dos vereadores"](https://g1.globo.com/poli
 
 A ferramenta de dados foi inspirada no ["Plenário"](https://plenario.github.io/plenario/), que eu desenvolvi durante o curso de front-end da [reprograma](https://reprograma.com.br/), em 2017. Eu fui responsável por todas as etapas do site: ideia, desenvolvimento web, limpeza dos dados e tratamento das informações.             
 
-Também escrevi tutoriais na internet sobre a utilidade da programação em R para jornalistas. Acesse o [curso de R para jornalistas](https://www.curso-de-programacao-em-r-para-jornalistas.com/).    
+Também escrevi tutoriais na internet sobre a utilidade da programação em R para jornalistas. Acesse a [oficina de R para jornalistas na Abraji](https://introducao-ao-r-na-abraji.github.io/oficina-R/) e o [curso de R para jornalistas](https://www.curso-de-programacao-em-r-para-jornalistas.com/).    
 
 Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens.   
 
