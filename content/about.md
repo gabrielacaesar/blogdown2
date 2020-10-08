@@ -12,6 +12,7 @@ Sou responsável pelos projetos de dados ["O voto dos deputados"](https://especi
 Coordenei o projeto de dados ["O voto dos vereadores"](https://g1.globo.com/politica/noticia/2020/08/18/o-voto-dos-vereadores.ghtml), que apresentou um balanço das votações das Câmaras Municipais de quatro capitais: Rio, São Paulo, Belo Horizonte e Recife.   
 
 A ferramenta de dados foi inspirada no ["Plenário"](https://plenario.github.io/plenario/), que eu desenvolvi durante o curso de front-end da [reprograma](https://reprograma.com.br/), em 2017. Eu fui responsável por todas as etapas do site: ideia, desenvolvimento web, limpeza dos dados e tratamento das informações.             
+
 Também escrevi tutoriais na internet sobre a utilidade da programação em R para jornalistas. Acesse o [curso de R para jornalistas](https://www.curso-de-programacao-em-r-para-jornalistas.com/).    
 
 Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens.   
