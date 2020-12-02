@@ -5,33 +5,63 @@ date: "2020-12-02"
 output: html_document
 ---
 
-Abraji
+Abraji      
 [Conta oficial](https://twitter.com/abraji)       
 [Reinaldo Chaves](https://twitter.com/paidatocandeira)        
   
-Escola de Dados
+Escola de Dados       
+[Conta oficial](https://twitter.com/EscolaDeDados)             
+[Adriano Belisario](https://twitter.com/belisards)             
+       
+OKBR       
+[Fernanda Campagnucci](https://twitter.com/fecampa)            
 
-OKBR
+G1 / TV Globo              
+[Gabriela Caesar](https://twitter.com/gabrielacaesar)       
+[Thiago Reis](https://twitter.com/thiagoreiscorte)            
+[Felipe Grandin](https://twitter.com/felipe_grandin)           
+[Clara Velasco](https://twitter.com/claravelasco)          
+[Carolina Moreno](https://twitter.com/anarina)           
 
-G1 
+O Globo        
+[Marlen Couto](https://twitter.com/coutomarlen)            
 
-O Globo 
+CNN       
+[Luiz Fernando Toledo](https://twitter.com/toledoluizf)       
 
-CNN
+Folha       
+[João Pedro Pitombo](https://twitter.com/jppitombo)       
+[Daniel Mariani](https://twitter.com/_danielmariani)       
+[Fabio Takahashi](https://twitter.com/tak_fabio)       
 
-Folha
+UOL       
+[Amanda Rossi](https://twitter.com/amanda_rossi)           
 
-Estadão
+Estadão       
+[Daniel Bramatti](https://twitter.com/bramatti)       
 
-Aos Fatos
+Aos Fatos       
+[Marina Gama Cubas](https://twitter.com/marinagamacubas)       
 
-Núcleo
+Núcleo       
+[Sérgio Spagnuolo](https://twitter.com/sergiospagnuolo)            
+[Lucas Gelape](https://twitter.com/lgelape)            
+[Renata Hirota](https://twitter.com/renata_mh)             
+[Rodolfo Almeida](https://twitter.com/rodolfoalmd)             
 
-Pindograma 
+Pindograma               
+[Conta oficial](https://twitter.com/pindograma)       
+
+Insper       
+[Natalia Mazotte](https://twitter.com/NataliaMazotte)         
+[Pedro Burgos](https://twitter.com/Burgos)
 
 Google
+[Marco Tulio Pires](https://twitter.com/mtrpires)                
+[Keila Guimarães](https://twitter.com/keilacguimaraes)                 
 
-Outros
+Outros/Freelancer       
+[Cecilia do Lago](https://twitter.com/ceciliadolago)             
 
 
 
