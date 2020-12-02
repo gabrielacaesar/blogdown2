@@ -24,8 +24,9 @@ G1 / TV Globo
 [Carolina Moreno](https://twitter.com/anarina)           
 
 O Globo        
-[Marlen Couto](https://twitter.com/coutomarlen)            
-
+[Marlen Couto](https://twitter.com/coutomarlen)      
+[Pedro Capetti](https://twitter.com/PedroCapetti)       
+    
 CNN       
 [Luiz Fernando Toledo](https://twitter.com/toledoluizf)       
 
