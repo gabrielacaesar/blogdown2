@@ -18,8 +18,7 @@ Protocolos: 44906302133054, 44906502133437, 44906602133702 e 44906702133958.
 
 
 **SUGESTÕES DE MELHORIAS AOS DADOS DO TSE**                
-Lista de melhorias para os dados do Tribunal Superior Eleitoral (TSE) feita após o uso diário na cobertura eleitoral de 2020.                
-Também foram recebidas contribuições de outros profissionais [https://twitter.com/gabrielacaesar/status/1333857054700744705].                
+Lista de melhorias para os dados do Tribunal Superior Eleitoral (TSE) feita após o uso diário na cobertura eleitoral de 2020. Também foram recebidas contribuições de outros profissionais [https://twitter.com/gabrielacaesar/status/1333857054700744705].                
 
 Recomendações gerais:                
 1) TSE deve criar um Plano de Dados Abertos e torná-lo público, após considerar demandas via LAI e também demandas de consulta pública para ouvir a população, incluindo principalmente jornalistas e programadores;                
