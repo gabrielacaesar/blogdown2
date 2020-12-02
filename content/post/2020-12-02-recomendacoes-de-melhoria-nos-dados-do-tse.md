@@ -8,8 +8,7 @@ categories: [dados abertos]
 tags: [dados abertos, tse, eleições]
 ---
 
-No início das eleições, eu comecei a escrever uma lista das melhorias que o TSE poderia fazer nos dados.                
-Depois de quase dois meses, a lista tem 30 itens.                
+No início das eleições, eu comecei a escrever uma lista das melhorias que o TSE poderia fazer nos dados. Depois de quase dois meses, a lista tem 30 itens.           
 [Joguei a lista no Twitter](https://twitter.com/gabrielacaesar/status/1333857054700744705) e outras pessoas contribuíram com mais sugestões.               
 E eu me lembrei de outras sugestões.               
 
