@@ -57,7 +57,7 @@ Insper
 [Natalia Mazotte](https://twitter.com/NataliaMazotte)         
 [Pedro Burgos](https://twitter.com/Burgos)
 
-Google
+Google      
 [Marco Tulio Pires](https://twitter.com/mtrpires)                
 [Keila Guimarães](https://twitter.com/keilacguimaraes)                 
 
