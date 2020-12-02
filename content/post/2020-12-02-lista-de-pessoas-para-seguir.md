@@ -5,6 +5,8 @@ date: "2020-12-02"
 output: html_document
 ---
 
+Lista de organizações e jornalistas que trabalham com dados.
+
 Abraji      
 [Conta oficial](https://twitter.com/abraji)       
 [Reinaldo Chaves](https://twitter.com/paidatocandeira)        
