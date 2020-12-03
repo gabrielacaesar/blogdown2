@@ -43,6 +43,11 @@ UOL
 Estadão       
 [Daniel Bramatti](https://twitter.com/bramatti)       
 
+Nexo    
+[Gabriel Zanlorenssi](https://twitter.com/gzanlorenssi)   
+[Gabriel Maia](https://twitter.com/MabrielGaia)   
+[Caroline Souza](https://twitter.com/caroline_souzas)       
+
 Revista AzMina      
 [Bárbara Libório](https://twitter.com/baliborio)      
 
