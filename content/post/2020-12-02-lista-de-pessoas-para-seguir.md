@@ -43,6 +43,9 @@ UOL
 Estadão       
 [Daniel Bramatti](https://twitter.com/bramatti)       
 
+Revista AzMina      
+[Bárbara Libório](https://twitter.com/baliborio)      
+
 Aos Fatos       
 [Marina Gama Cubas](https://twitter.com/marinagamacubas)       
 
@@ -64,7 +67,8 @@ Google
 [Keila Guimarães](https://twitter.com/keilacguimaraes)                 
 
 Outros/Freelancer       
-[Cecilia do Lago](https://twitter.com/ceciliadolago)             
+[Cecilia do Lago](https://twitter.com/ceciliadolago)       
+[Thays Lavor](https://twitter.com/thayslavor)     
 
 
 
