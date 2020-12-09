@@ -36,6 +36,7 @@ Folha
 [João Pedro Pitombo](https://twitter.com/jppitombo)       
 [Daniel Mariani](https://twitter.com/_danielmariani)       
 [Fabio Takahashi](https://twitter.com/tak_fabio)       
+[Guilherme Garcia](https://twitter.com/ggarciapato)     
 
 UOL       
 [Amanda Rossi](https://twitter.com/amanda_rossi)           
