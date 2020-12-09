@@ -74,6 +74,7 @@ Google
 Outros/Freelancer       
 [Cecilia do Lago](https://twitter.com/ceciliadolago)       
 [Thays Lavor](https://twitter.com/thayslavor)     
+[Marcelo Soares](https://twitter.com/msoares)      
 
 
 
