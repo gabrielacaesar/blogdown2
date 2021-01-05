@@ -17,7 +17,7 @@ Também escrevi tutoriais na internet sobre a utilidade da programação em R pa
 
 Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens.   
 
-Eu edito ainda parte das planilhas do projeto ["As promessas dos políticos"](https://especiais.g1.globo.com/politica/2015/as-promessas-dos-politicos/), que monitora as promessas dos 26 prefeitos de capitais, dos 27 governadores e do presidente da República.    
+Eu edito ainda parte das planilhas do projeto ["As promessas dos políticos"](https://especiais.g1.globo.com/politica/2015/as-promessas-dos-politicos/), que monitora as promessas dos 26 prefeitos de capitais, dos 27 governadores e do presidente da República. Faço parte da equipe do ["Monitor da Violência"](https://g1.globo.com/monitor-da-violencia/), que apresenta dados sobre segurança pública, coletados com todos os estados do Brasil.   
 
 Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continuei trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.     
  
