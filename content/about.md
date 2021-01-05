@@ -17,6 +17,8 @@ Também escrevi tutoriais na internet sobre a utilidade da programação em R pa
 
 Além de ser jornalista de dados, eu participo ainda do ["Fato ou Fake"](https://g1.globo.com/fato-ou-fake/), que checa informações falsas e discursos de pessoas públicas. Em 2018, eu reuni [aqui](https://gabrielacaesar.github.io/contra-as-fake-news/) alguns dos sites úteis para as checagens.   
 
+Eu edito ainda parte das planilhas do projeto ["As promessas dos políticos"](https://especiais.g1.globo.com/politica/2015/as-promessas-dos-politicos/), que monitora as promessas dos 26 prefeitos de capitais, dos 27 governadores e do presidente da República.    
+
 Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continuei trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.     
  
 
@@ -29,7 +31,7 @@ E-mail: gabriela.caesar.2020@gmail.com
 2016 a 2017 - Repórter no **Drive**, newsletter do site de notícias **Poder360**     
 2015 a 2016 - Trainee, repórter e redatora no jornal **O Estado de S.Paulo**     
 2015 - Freelancer no jornal **Folha de S.Paulo**     
-2011 a 2015 - Estagiária nos veículos **Portal PUC-Rio Digital**, **Alerj**, **TV Band** e **Piauí**   
+2011 a 2015 - Estagiária nos veículos **Portal PUC-Rio Digital**, **Alerj**, **TV Band**, **Piauí** e **Câmara dos Deputados**     
 2008 a 2010 - Estagiária júnior nos veículos **Veja Rio**, **Jornal do Brasil** e **O Globo**     
 
 ## Formação       
