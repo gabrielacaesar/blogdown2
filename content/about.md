@@ -1,5 +1,5 @@
 ---
-date: "2020-08-19"
+date: "2021-01-05"
 title: Sobre
 ---
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
