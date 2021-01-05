@@ -24,7 +24,7 @@ Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeac
 
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
 LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
-E-mail: gabriela.caesar.2020@gmail.com        
+E-mail: gabriela.caesar.2019@gmail.com        
 
 ## Experiência     
 2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
