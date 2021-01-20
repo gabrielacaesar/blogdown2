@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Datacamp          
+Cleaning Data in R            
+18/01/2021        
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/cleaning-data-in-r-datacamp-gabriela-caesar-18jan2021.pdf)              
+
 Curso-R                 
 R para a ciência de dados 2            
 18/08/2020 a 03/09/2020                   
