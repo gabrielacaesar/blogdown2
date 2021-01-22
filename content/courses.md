@@ -5,6 +5,16 @@ title: Cursos
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
 Datacamp          
+Data Science for Business           
+21/01/2021        
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/datacamp-Data-Science-for-Business-gabriela-caesar-21jan2021.pdf)        
+
+Datacamp       
+Introduction to Data Visualization with ggplot           
+21/01/2021           
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/datacamp-Introduction-to-Data-Visualization-with-ggplot2-gabriela-caesar-21jan2021.pdf)     
+
+Datacamp          
 Cleaning Data in R            
 18/01/2021        
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/cleaning-data-in-r-datacamp-gabriela-caesar-18jan2021.pdf)              
