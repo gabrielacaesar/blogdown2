@@ -39,15 +39,15 @@ Deploy
 20/06/2020        
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/curso-r-deploy-Gabriela-Caesar.pdf)          
 
-Datacamp    
-Intermediate Python        
-03/06/2020        
-[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Intermediate-Python-gabriela-caesar.pdf)        
+Datacamp       
+Intermediate Python           
+03/06/2020           
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Intermediate-Python-gabriela-caesar.pdf)          
 
-Datacamp
-Introduction to Data Science in Python
-26/05/2020
-[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Introduction-to-Data-Science-in-Python.pdf)
+Datacamp    
+Introduction to Data Science in Python       
+26/05/2020        
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/Introduction-to-Data-Science-in-Python.pdf)        
 
 Curso-R                
 Webscraping com R - 2              
