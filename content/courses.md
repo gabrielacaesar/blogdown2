@@ -1,8 +1,13 @@
 ---
-date: "2020-10-07"
+date: "2021-07-31"
 title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
+
+Datacamp       
+Data Manipulation with pandas	      
+27/07/2021        
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-data-manipulation-with-pandas.pdf)       
 
 Datacamp          
 Data Science for Business           
