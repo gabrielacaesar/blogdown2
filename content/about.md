@@ -21,10 +21,23 @@ Eu edito ainda parte das planilhas do projeto ["As promessas dos políticos"](ht
 
 Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continuei trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.     
  
-
+## Contato
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
 LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
-E-mail: gabriela.caesar.2019@gmail.com        
+E-mail: gabriela.caesar.2019@gmail.com     
+
+## Habilidades     
+- Sugestão de pauta, apuração, entrevista, produção, reportagem em texto e vídeo, edição de texto, checagem de desinformação e declaração de candidatos nos debates eleitorais;     
+- Coleta de dados, checagem de dados, uso de Lei de Acesso à Informação, contato com assessoria de imprensa;     
+- Análise de dados com R, limpeza e manipulação de dados, raspagem de dados, uso de APIs, controle de versões com GitHub, criação de gráficos com R, Datawrapper e Flourish;     
+- Domínio de ferramentas OSINT (Open source intelligence);     
+- Criação de dashboard com o Google Data Studio, interlocução/alinhamento com as equipes de arte e tecnologia, acompanhamento da criação de páginas especiais (front-end) e sistemas (back-end) com funcionalidades para o jornalismo;     
+- Ensino da linguagem de programação R em congressos da Abraji e do Coda-BR e oficinas internas na empresa;     
+- Curadoria e atualização das páginas de votações nominais da Câmara dos Deputados e do Senado Federal, "O voto dos deputados" e "O voto dos senadores";     
+- Coordenação do projeto "O voto dos vereadores", que reuniu votos das câmaras municipais da legislatura de 2017 a 2020 de Rio de Janeiro, São Paulo, Belo Horizonte e Recife;     
+- Reportagem e análise de dados para a editoria "Eleição em números" (principal editoria das eleições);     
+- Edição de parte do projeto "Promessas dos políticos", que monitora as promessas dos 26 prefeitos de capitais, dos 27 governadores e do presidente da República;     
+- Sugestão, apuração, entrevista e coleta de dados para o projeto "Monitor da Violência", que publica reportagens especiais sobre segurança pública no Brasil, com números informados por cada estado.     
 
 ## Experiência     
 2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
