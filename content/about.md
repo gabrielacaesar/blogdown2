@@ -4,6 +4,11 @@ title: Sobre
 ---
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}  
 
+## Contato
+Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
+LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
+E-mail: gabriela.caesar.2019@gmail.com    
+
 ## Habilidades      
 - Sugestão de pauta, apuração, entrevista, produção, reportagem em texto e vídeo, edição de texto, checagem de desinformação e declaração de candidatos nos debates eleitorais;     
 - Coleta de dados, checagem de dados, uso de Lei de Acesso à Informação, contato com assessoria de imprensa;     
@@ -51,7 +56,3 @@ Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeac
 
 [(lista de cursos complementares e participações em congressos)](https://www.gabrielacaesar.com/courses/)
 
-## Contato
-Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
-LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
-E-mail: gabriela.caesar.2019@gmail.com    
