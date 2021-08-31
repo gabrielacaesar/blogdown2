@@ -1,9 +1,12 @@
 ---
-date: "2020-09-08"
+date: "2021-08-31"
 title: Tutoriais
 ---
 Lista de tutoriais escritos por mim.
 
+Oficina de R com Beatriz Milz e Cecilia do Lago                  
+08/08/2021                               
+[Acesse o curso](https://gabrielacaesar.github.io/r-para-jornalismo-abraji2021/)               
 
 Captura de dados da SSP-SP               
 08/09/2020               
