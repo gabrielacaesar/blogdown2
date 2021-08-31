@@ -15,7 +15,7 @@ E-mail: gabriela.caesar.2019@gmail.com
 - Análise de dados com R, limpeza e manipulação de dados, raspagem de dados, uso de APIs, controle de versões com GitHub, criação de gráficos com R, Datawrapper e Flourish;     
 - Domínio de ferramentas OSINT (Open source intelligence);     
 - Criação de dashboard com o Google Data Studio, interlocução/alinhamento com as equipes de arte e tecnologia, acompanhamento da criação de páginas especiais (front-end) e sistemas (back-end) com funcionalidades para o jornalismo;     
-- Ensino da linguagem de programação R em congressos da Abraji e do Coda-BR e oficinas internas na empresa;     
+- Ensino da linguagem de programação R em congressos da Abraji e do Coda-BR e oficinas internas na empresa para fortalecer a cultura de dados;     
 - Curadoria e atualização das páginas de votações nominais da Câmara dos Deputados e do Senado Federal, "O voto dos deputados" e "O voto dos senadores";     
 - Coordenação do projeto "O voto dos vereadores", que reuniu votos das câmaras municipais da legislatura de 2017 a 2020 de Rio de Janeiro, São Paulo, Belo Horizonte e Recife;     
 - Reportagem e análise de dados para a editoria "Eleição em números" (principal editoria das eleições);     
