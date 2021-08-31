@@ -48,6 +48,7 @@ E-mail: gabriela.caesar.2019@gmail.com
 2008 a 2010 - Estagiária júnior nos veículos **Veja Rio**, **Jornal do Brasil** e **O Globo**     
 
 ## Formação       
+2021 até atual - Master em Jornalismo de Dados, Automação e Data Storytelling no **Insper**      
 2019 até atual - Formação em cientista de dados com R no **Datacamp**     
 2018 a 2019 - Formação em analista de dados com R no **Datacamp**       
 2011 a 2015 - Bacharelado em jornalismo na **PUC-Rio**        
