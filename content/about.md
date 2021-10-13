@@ -2,7 +2,7 @@
 date: "2021-01-05"
 title: Sobre
 ---
-{{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}  
+{{< image src="/foto_gc.jpeg" alt="gabriela caesar" position="center" style="height:250px;">}}  
 
 ## Contato
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
