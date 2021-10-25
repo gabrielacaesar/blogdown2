@@ -5,6 +5,14 @@ title: Códigos
 
 Tenho feito códigos em R para automatizar, limpar e analisar dados para o trabalho como jornalista de dados. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
 
+Análise sobre o casamento homoafetivo     
+Outubro/2021      
+[Veja o código](https://github.com/gabrielacaesar/lgbt_casamento)     
+  
+Como vota a Câmara      
+Outubro/2021      
+[Veja o código](https://github.com/gabrielacaesar/votos_camara)     
+
 Códigos das eleições de 2020      
 29/11/2020      
 [Veja o código](https://github.com/gabrielacaesar/eleicoes2020)         
