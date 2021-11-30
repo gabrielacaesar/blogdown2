@@ -2,7 +2,7 @@
 date: "2021-10-25"
 title: Sobre
 ---
-{{< image src="/foto_gc.jpeg" alt="gabriela caesar" position="center" style="height:250px;">}}  
+{{< image src="/foto-de-gabriela-caesar-fotografo-%40jonatasmarques.jpg" alt="gabriela caesar" position="center" style="height:250px;">}}  
 
 ## Contato
 Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)          
