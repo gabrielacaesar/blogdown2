@@ -1,5 +1,5 @@
 ---
-date: "2021-10-25"
+date: "2021-11-30"
 title: Sobre
 ---
 {{< image src="/foto-de-gabriela-caesar-fotografo-%40jonatasmarques.jpg" alt="gabriela caesar" position="center" style="height:250px;">}}  
