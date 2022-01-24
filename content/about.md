@@ -9,24 +9,28 @@ Twitter: [@gabrielacaesar](https://twitter.com/gabrielacaesar)
 LinkedIn: [Gabriela Caesar](https://www.linkedin.com/in/gabrielacaesar/)            
 E-mail: gabriela.caesar.2019@gmail.com    
 
+[English CV](https://raw.githubusercontent.com/gabrielacaesar/blogdown2/2f532aee5e1d8459c1cd1365989acfe7b8cfa33b/static/gabriela-caesar-cv-english-24jan2022-v2.pdf)
+
 ## Habilidades      
-- Análise de dados com R, limpeza e manipulação de dados, principalmente com o conjunto de pacotes tidyverse, além de raspagem de dados (com rvest) e uso de APIs;                
-- Análise de dados com Python com a biblioteca pandas, além de webscraping com BeautifulSoup, requests e Selenium;             
-- Controle de versões, GitHub (com código limpo e documentado) e utilização de metodologias ágeis;             
-- Visualização de dados e criação de gráficos interativos com R (ggplot), Python (Altair), Datawrapper e Flourish;             
-- Analytics Culture Evangelist: ensino da linguagem de programação R em congressos da Abraji e do Coda-BR, em curso do IBPAD, oficinas internas no G1, contribuições frequentes nas disciplinas da pós-graduação e participação em live do International Center for Journalists (ICFJ) para falar sobre jornalismo de dados;             
-- Interlocução/alinhamento com as equipes de arte e tecnologia para o acompanhamento da criação de páginas especiais (front-end) e sistemas (back-end) com funcionalidades para o jornalismo;             
-- Sugestão de pauta, apuração, entrevista, produção, reportagem em texto e vídeo, edição de texto, checagem de desinformação e declaração de candidatos nos debates eleitorais;             
-- Coleta de dados, checagem de dados, uso de Lei de Acesso à Informação, contato com assessoria de imprensa;             
-- Domínio de ferramentas OSINT (Open source intelligence);             
-- Criação de dashboard com o Google Data Studio;             
-- Conhecimento em estatística e machine learning;             
-- Curadoria e atualização das páginas de votações nominais da Câmara dos Deputados e do Senado Federal, "O voto dos deputados" e "O voto dos senadores";             
-- Coordenação do projeto "O voto dos vereadores", que reuniu votos das câmaras municipais da legislatura de 2017 a 2020 de Rio de Janeiro, São Paulo, Belo Horizonte e Recife;             
-- Outros projetos em que estou envolvida no g1: editoria "Eleição em números", projeto "Promessas dos políticos", projeto "Monitor da Violência", entre outros.               
+- Análise de dados com SQL, Python e R;         
+- Raspagem e automatização com Python e R;        
+- Controle de versões e GitHub;         
+- Utilização de metodologias ágeis;         
+- Visualização de dados;         
+- Criação de dashboard;         
+- Product Owner - PO - em projetos de dados;         
+- Conhecimento em estatística e machine learning;         
+- Analytics Culture Evangelist;         
+- Domínio de ferramentas OSINT (Open source intelligence);         
+- Interlocução/alinhamento com as equipes de arte e tecnologia para o acompanhamento da criação de páginas especiais (front-end) e sistemas (back-end) com funcionalidades para o jornalismo;         
+- Sugestão de pauta, apuração, entrevista, produção, reportagem em texto e vídeo, edição de texto, checagem de desinformação e declaração de candidatos nos debates eleitorais;          
+- Coleta de dados, checagem de dados, uso de Lei de Acesso à Informação, contato com assessoria de imprensa;          
+- Curadoria e atualização das páginas de votações nominais da Câmara dos Deputados e do Senado Federal, "O voto dos deputados" e "O voto dos senadores";         
+- Coordenação do projeto "O voto dos vereadores", que reuniu votos das câmaras municipais da legislatura de 2017 a 2020 de Rio de Janeiro, São Paulo, Belo Horizonte e Recife;          
+- Outros projetos em que estou envolvida no g1: editoria "Eleição em números", projeto "Promessas dos políticos", projeto "Monitor da Violência", entre outros.         
 
 ## Resumo profissional
-Sou jornalista de dados no [**G1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pela Folha de S.Paulo, pelo Estadão e pelo Poder360. Uso a programação em R para descobrir pautas, analisar dados e automatizar tarefas. 
+Sou jornalista de dados no [**g1**](https://g1.globo.com), formada pela PUC-Rio e com passagens pela Folha de S.Paulo, pelo Estadão e pelo Poder360. Uso a programação para descobrir pautas, analisar dados e automatizar tarefas. 
 
 Sou responsável pelos projetos de dados ["O voto dos deputados"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-deputados/#/) e ["O voto dos senadores"](https://especiais.g1.globo.com/politica/2019/o-voto-dos-senadores/#/), que reúnem os dados de votações do Congresso em uma ferramenta fácil e simples de navegar para achar informações sobre cada deputado, cada senador ou mesmo sobre as proposições votadas. 
 
@@ -43,7 +47,7 @@ Eu edito ainda parte das planilhas do projeto ["As promessas dos políticos"](ht
 Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, ambos em 2016. Desde então, continuei trabalhando com assuntos ligados à política (em especial, ao Legislativo) e também à transparência pública.      
 
 ## Experiência     
-2017 até atual - Jornalista de dados no portal **G1**, da TV Globo     
+2017 até atual - Jornalista de dados no portal **g1**, da TV Globo     
 2016 a 2017 - Repórter no **Drive**, newsletter do site de notícias **Poder360**     
 2015 a 2016 - Trainee, repórter e redatora no jornal **O Estado de S.Paulo**     
 2015 - Freelancer no jornal **Folha de S.Paulo**     
@@ -52,10 +56,10 @@ Quando morei em Brasilia, fui setorista do Senado e acompanhei de perto o impeac
 
 ## Formação       
 2021 até atual - Master em Jornalismo de Dados, Automação e Data Storytelling no **Insper**      
-2019 até atual - Formação em cientista de dados com R no **Datacamp**     
+2019 a 2021 - Formação em cientista de dados com R no **Datacamp**     
 2018 a 2019 - Formação em analista de dados com R no **Datacamp**       
+2013 - Intercâmbio acadêmico na **Hochschule Osnabrück (Alemanha)**       
 2011 a 2015 - Bacharelado em jornalismo na **PUC-Rio**        
-2013 - Intercâmbio acadêmico na **Hochschule Osnabrück (Alemanha)**
 
 [(lista de cursos complementares e participações em congressos)](https://www.gabrielacaesar.com/courses/)
 
